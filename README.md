@@ -1,4 +1,4 @@
-# hash-generator-and-hash-cracker
+# sanhasher
 This Tool will generate a live hash of your Password/Text, and will generate a hashes of your Files, and verify the password or text can be easily cracked by verifying it in the dictionary of wordlists.......
 Menu:
 1. Password Hash Generator
