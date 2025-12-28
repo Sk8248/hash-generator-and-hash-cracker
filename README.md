@@ -11,6 +11,9 @@ This project demonstrates:
 - File integrity hashing
 - Dictionary-based password strength checking
 
+How to use:
+- command: python3 sanhasher.py
+
 Use your wordlists to crack
 
 Educational & offline use only.
