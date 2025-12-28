@@ -33,7 +33,7 @@ HASH_ALGOS = {
 
 def banner():
     print("\n==============================")
-    print("             SanFusion                    ")
+    print("             SanHasher                    ")
     print("==============================")
 
 def pause():
